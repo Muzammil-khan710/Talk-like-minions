@@ -98,5 +98,5 @@
   }
  
 h4 {
-  color: #ffe33f;
+  color: var(--color-primary);
 }
