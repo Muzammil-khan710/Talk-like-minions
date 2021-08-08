@@ -27,7 +27,6 @@ html {
 
 nav {
   background-color: var(--color-primary);
-  height: 15vh;
   padding: 1rem;
   border-bottom-right-radius: 25px;
   border-bottom-left-radius: 25px;
